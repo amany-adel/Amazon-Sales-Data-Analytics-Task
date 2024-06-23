@@ -24,34 +24,19 @@ The following data cleaning steps were performed:
 
 
 ## 4. Data Visualizations
-### Univariate Analysis
 - **Histogram of Amount feature **:
   ![Histogram](https://github.com/amany-adel/Amazon-Sales-Data-Analytics-Task/blob/main/Visualization/Frequency%20of%20the%20Sales%20Amount.png)
 
-### Bivariate Analysis
-- **Scatter Plot of Feature A vs. Feature B**: ![Scatter Plot](scatter_ab.png)
 
-### Multivariate Analysis
-- **Pair Plot of Features A, B, and C**: ![Pair Plot](pairplot.png)
+- **Bar Plots of Ship state and Category  ![Bar Plot](https://github.com/amany-adel/Amazon-Sales-Data-Analytics-Task/blob/main/Visualization/Bar%20Plot%20of%20ship-state.png)
 
-## 5. Key Findings
-### Patterns and Trends
-- Feature A shows a normal distribution with a mean of 10.5.
 
-### Correlations and Relationships
-- There is a strong positive correlation between Feature A and Feature B.
+- **Top sales By city: !(https://github.com/amany-adel/Amazon-Sales-Data-Analytics-Task/blob/main/Visualization/Bar%20Plot%20of%20Total%20Sales%20by%20City.png)
 
-### Anomalies and Outliers
-- Several outliers were identified in Feature C, which may warrant further investigation.
 
-## 6. Conclusion
-The EDA revealed several key insights, including a strong correlation between Feature A and Feature B. Further analysis could involve investigating the causes of outliers in Feature C.
 
-## 7. Appendix
-### Code
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
+
+
 
 # Example code for generating a histogram
 plt.hist(data['Feature A'])
