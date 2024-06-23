@@ -25,7 +25,8 @@ The following data cleaning steps were performed:
 
 ## 4. Data Visualizations
 ### Univariate Analysis
-- **Histogram of Amount feature **: ![Histogram](https://github.com/amany-adel/Amazon-Sales-Data-Analytics-Task/blob/main/Visualization/Frequency%20of%20the%20Sales%20Amount.png)
+- **Histogram of Amount feature **:
+  ![Histogram](https://github.com/amany-adel/Amazon-Sales-Data-Analytics-Task/blob/main/Visualization/Frequency%20of%20the%20Sales%20Amount.png)
 
 ### Bivariate Analysis
 - **Scatter Plot of Feature A vs. Feature B**: ![Scatter Plot](scatter_ab.png)
